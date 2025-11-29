@@ -1,6 +1,6 @@
 # 👑 Python Software Engineering Portfolio
 
-This repository documents my journey and skills acquired during an intensive **"Python Crash Course,"** resulting in a collection of **14 fully functional, command-line applications.**
+This repository documents my journey and skills acquired during an intensive **"Python Course,"** resulting in a collection of **14 fully functional, command-line applications.**
 
 My work demonstrates mastery over core software development concepts essential for a Junior Developer role.
 
